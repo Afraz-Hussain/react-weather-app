@@ -1,0 +1,16 @@
+
+.active{
+    color:darkorange;
+}
+.hover{
+    color: black;
+}
+.container{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   gap: 10px;
+}
+.products{
+    border: 1px solid red;
+    
+}
